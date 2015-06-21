@@ -1,0 +1,9 @@
+base
+shiny
+ggplot2
+shinyapps
+HistData
+devtools
+slidify
+lattice
+caret
